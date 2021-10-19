@@ -1,0 +1,19 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-align: center;
+    font: 300;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h2{
+    text-align: center;
+    font: 100;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    text-align: center;
+    font: 100;
+    font-family: fantasy;
+}
